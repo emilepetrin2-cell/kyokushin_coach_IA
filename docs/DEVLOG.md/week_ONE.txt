@@ -1,0 +1,13 @@
+## 2 Septembre 2026
+
+### goal
+creat an IA-powered tool that will scan people for finding their weakness
+
+### reflection and problem
+* **thinking:** Finding the right tool for scanning people using AI.
+* **chalange:** Keeping a hight refresh rate  (120 fps) with a none professional camera
+
+
+### next step
+1. making the structure of the project 
+2. install the requirements for the project and test the to be sure that they work
