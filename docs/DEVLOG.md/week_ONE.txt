@@ -11,3 +11,20 @@ creat an IA-powered tool that will scan people for finding their weakness
 ### next step
 1. making the structure of the project 
 2. install the requirements for the project and test the to be sure that they work
+==============================================================================================
+## 7 septembre 2026
+
+### goal
+Installing and testing the requirements
+
+### reflection and problem
+* **thinking** I found yolo and cv2 that is perfect for scan and find the part of the body with precision
+          I choose cuda for running the logiciel and tensor cores for running the calcul because it is optimized with nvidia
+* **chalange:** There a lot of model for yolo. I finish by choosing the small version because it is the perfect match beetween precision and refresh rate(47% and 120 fps on 1080p)
+" ""probleme:"" cuda version 10.0 didn't fit with my 5070 si I install the version 13.0 insted
+
+### next step
+1. creating de base model that look for a point that i will decide
+=============================================================================================
+
+              
