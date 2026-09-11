@@ -8,3 +8,14 @@ septembre 08 2026
 ### next steps
 1. creating a new function for calculat the angle
 2. more test for accuracy
+==============================================================================================================================================================
+septembre 10 2026
+### goal: new function that calculate angle of three parts of the bodie
+
+### reflection and problem
+* **recherch:** reading the cv2 arkan2 section for read the angle of 3 defferent part of the bodi and the section text for putting the result on the screen
+* **thinkink:** choosing the way to show the result at the screen by testing different police and different colors
+* **problem:** I didn't know what to do when the angle pass 180 degree so I just substract it from 360
+
+### next step
+1. creating a dictionary of mouvement and there angle 
