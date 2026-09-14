@@ -2,7 +2,7 @@ septembre 08 2026
 ### goal: creating the first model that will  reconize the bodie on a webcam
 
 ### reflection and problem
-* **thinking:** did some reserch in the documentatino of cv2 VideoCapture Class Reference for understand the basic of the library and watching some youtube video
+* **thinking:** did some reserch in the documentation of cv2 VideoCapture Class Reference for understand the basic of the library and watching some youtube video
 * **probleme:** the camera would'nt open because the windows camera system block it. Had to use cv2.CAP_MSMF for resolving the problem
 
 ### next steps
@@ -18,4 +18,6 @@ septembre 10 2026
 * **problem:** I didn't know what to do when the angle pass 180 degree so I just substract it from 360
 
 ### next step
-1. creating a dictionary of mouvement and there angle 
+1. creating a dictionary of mouvement and there angle
+====================================================================================================================================================
+
