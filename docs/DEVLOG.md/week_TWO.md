@@ -20,4 +20,15 @@ septembre 10 2026
 ### next step
 1. creating a dictionary of mouvement and there angle
 ====================================================================================================================================================
+september 13 2026
+### goal:making the first dictionnary for the guard.
 
+### reflection and action
+* **recherch: ** I watch a lot of video of kata on kumite and use them to see the perfect range of angle for the guard
+* **problems: ** there a different style with different technique so I had to stop to the official kyokyshin guide
+
+### realisation: this is not accuracy because it's depend of how the person is place in front of the camera. will have to think about it
+
+### next step
+1. maybe add some mouvement
+2. think of a better way to calcul the angle 
